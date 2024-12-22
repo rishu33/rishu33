@@ -2,9 +2,8 @@
 
 ### Welcome to My GitHub Profile 👋
 
-I recently completed my Master’s in Robotic Systems Engineering at RWTH Aachen, Germany, where I developed a deep interest in emerging technologies, including Machine Learning, Computer Vision, Image and LiDAR data processing, and Robot Kinematics.
+I recently completed my Master’s in Robotic Systems Engineering at RWTH Aachen, Germany, where I developed a deep interest in Machine Learning, Computer Vision, Image and LiDAR data processing, and Robot Kinematics.
 My expertise includes solving challenging problems with innovative solutions, utilizing cutting-edge technologies, and contributing to impactful projects.
-
 
 ## 🎯 Career Goals  
 
@@ -12,28 +11,27 @@ I am actively seeking oppportunities to leverage my skills in areas where i can 
 
 ## 👨‍💻 Current Active Projects
 
-- ABC
-- XYZ
+- Coming soon
 
 ## 🛠️ Skills  
 
-- **Technical**:  Computer Vision (Image and LiDAR), Machine Learning, Python, PyTorch, TensorFlow, Git, Docker, MySQL, ROS, ROS2.
-- **Software**: VS-Code, Jupyter-notebook, RViz, rqt, Teamcenter PLM, Linux OS.
-- **Transferable**: 
+- **Technical**:  Computer Vision (Image and LiDAR), Machine Learning, Python, PyTorch, TensorFlow, Git, Docker, MySQL, ROS(basic knowledge), ROS2(basic knowledge).
+- **Software**: VS-Code, Jupyter-notebook, RViz(basic knowledge), rqt(basic knowledge), Teamcenter PLM, Linux OS.
+- **Transferable**: •	Critical thinking, Analytical mindset, Teamwork & Collaboration, Attention to details.
 - **Languages**: English (Proficient-C1), German (Intermediate-B2.1), Spanish (Elementary-A1), Hindi (Native).
 
 
-## 🚗 Other Key Projects  
+## Previous Projects  
 
-#### 1. **Uncertainty Quantification in 3D Object Detection**  [Link]
+#### 1. **Uncertainty Quantification in 3D Object Detection**  [Link](https://github.com/rishu33/uncertainty_quantification_3D_OD.git)
 - Developed metrics to assess uncertainty in regression and classification models.  
-- Focused on enhancing reliability in **Autonomous Driving** applications in the are 3D Object Detection.  
+- Focused on enhancing reliability in **3D Object Detection** applications in Autonomous Driving industry.  
 
-#### 2. **Smart Quality Assessment for Bolting Processes**  [Link]
-- Designed an **unsupervised learning pipeline** combining Autoencoders, DBSCAN, and Kernel Density Estimation to predict failure risks using Time Series data of industrial bolting processes.  
+#### 2. **Smart Quality Assessment for Bolting Processes**  [Link](https://github.com/rishu33/unsupervised_bolting_optimization.git)
+- Designed an **unsupervised learning pipeline** combining Autoencoders, DBSCAN, and Kernel Density Estimation to predict failure risks using Time Series data analysis of bolting processes in production process.  
 
 
-## 📬 Contact Me  
+## 📬 Contact  
 
 - **Email**: [rishu35sharma@gmail.com](mailto:rishu35sharma@gmail.com)  
 - **Personal Website**: [rishusharma.webflow.io](https://rishusharma.webflow.io)  
