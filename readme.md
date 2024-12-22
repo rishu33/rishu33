@@ -37,4 +37,4 @@ I am actively seeking oppportunities to leverage my skills in areas where i can 
 - **Personal Website**: [rishusharma.webflow.io](https://rishusharma.webflow.io)  
 - **LinkedIn**: [linkedin.com/in/rishu35sharma](https://www.linkedin.com/in/rishu35sharma)  
 
-If my experiences and interests resonate with you, feel free to explore my repositories, connect with me and I'd be happy to begin a conversation.
+NOTE: I am currently in the process of developing my complete GitHub profile, so you might not find all the code that demonstrates my proficiency in various areas just yet. However, if my experiences and interests resonate with you, connect with me, or start a conversation—I’d be happy to discuss further!
