@@ -11,7 +11,8 @@ I am actively seeking oppportunities to leverage my skills in areas where i can 
 
 ## 👨‍💻 Current Active Projects
 
-- Coming soon
+- Learning C++
+- Writing CV methods for image processing.
 
 ## 🛠️ Skills  
 
