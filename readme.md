@@ -11,7 +11,7 @@ I am actively seeking oppportunities to leverage my skills in areas where i can 
 
 ## 👨‍💻 Current Active Projects
 
-- Learning C++
+- Learning Deep Learning with Pytorch.
 - Writing CV methods for image processing.
 
 ## 🛠️ Skills  
